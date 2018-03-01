@@ -597,8 +597,9 @@ int drawable ic_account_balance_black_24dp 0x7f020043
 int drawable ic_done 0x7f020044
 int drawable ic_menu 0x7f020045
 int drawable ic_numeric_3_box_black_36dp 0x7f020046
-int drawable my_menu 0x7f020047
-int drawable notification_template_icon_bg 0x7f020048
+int drawable icon_money_bag 0x7f020047
+int drawable my_menu 0x7f020048
+int drawable notification_template_icon_bg 0x7f020049
 int id action0 0x7f0c009c
 int id action_bar 0x7f0c005e
 int id action_bar_activity_content 0x7f0c0000

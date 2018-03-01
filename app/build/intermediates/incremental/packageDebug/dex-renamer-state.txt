@@ -1,4 +1,4 @@
-#Thu Mar 01 16:20:26 CST 2018
+#Thu Mar 01 17:02:49 CST 2018
 base.0=/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

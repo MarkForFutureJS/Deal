@@ -2697,8 +2697,9 @@ containing a value of this type.
         public static final int ic_done=0x7f020044;
         public static final int ic_menu=0x7f020045;
         public static final int ic_numeric_3_box_black_36dp=0x7f020046;
-        public static final int my_menu=0x7f020047;
-        public static final int notification_template_icon_bg=0x7f020048;
+        public static final int icon_money_bag=0x7f020047;
+        public static final int my_menu=0x7f020048;
+        public static final int notification_template_icon_bg=0x7f020049;
     }
     public static final class id {
         public static final int action0=0x7f0c009c;
