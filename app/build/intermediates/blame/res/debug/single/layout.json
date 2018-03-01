@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_welcome.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/src/main/res/layout/fragment_welcome.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_lend.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/layout/fragment_lend.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_user.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/layout/fragment_user.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_borrow.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/layout/fragment_borrow.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_register_as_borrower.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/src/main/res/layout/fragment_register_as_borrower.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/deal_list_item.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/src/main/res/layout/deal_list_item.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_lend.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/src/main/res/layout/fragment_lend.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/lend_list_item.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/layout/lend_list_item.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/nav_header.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/src/main/res/layout/nav_header.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_borrow.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/src/main/res/layout/fragment_borrow.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/nav_header.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/layout/nav_header.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_welcome.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/layout/fragment_welcome.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/user.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/layout/user.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_lender_info.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/layout/fragment_lender_info.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_register_as_lender.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/layout/fragment_register_as_lender.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/deal_list_item.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/layout/deal_list_item.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_borrower_form.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/layout/fragment_borrower_form.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/lend_list_item.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/src/main/res/layout/lend_list_item.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_my_deal.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/layout/fragment_my_deal.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_register_as_lender.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/src/main/res/layout/fragment_register_as_lender.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_borrower_form.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/src/main/res/layout/fragment_borrower_form.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_see_lender_detail.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/layout/fragment_see_lender_detail.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_lender_info.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/src/main/res/layout/fragment_lender_info.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_see_lender_detail.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/src/main/res/layout/fragment_see_lender_detail.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_register_as_borrower.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/layout/fragment_register_as_borrower.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/layout/fragment_my_deal.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/src/main/res/layout/fragment_my_deal.xml"
+    }
+]

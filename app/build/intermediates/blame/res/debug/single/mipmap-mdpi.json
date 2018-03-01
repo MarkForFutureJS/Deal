@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

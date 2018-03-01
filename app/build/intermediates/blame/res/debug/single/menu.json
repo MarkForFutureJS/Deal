@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/menu/drawer_view.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/src/main/res/menu/drawer_view.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/menu/drawer_view.xml",
+        "source": "/Users/Mitake/Desktop/Android/Deal/app/src/main/res/menu/drawer_view.xml"
+    },
+    {
+        "merged": "/Users/Mark/Desktop/Android/Deal/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/Mark/Desktop/Android/Deal/app/src/main/res/menu/menu_main.xml"
+    }
+]

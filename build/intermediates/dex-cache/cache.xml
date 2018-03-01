@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Mitake/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_1fc8d3cb3e502a453f023d18e8ed2f36a50dd86c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.1_83a43200072e33c3b997a0ccae7547c4f8bba8cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_0837ee3e9239248f55a71d2c8caf732a83e555dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.0.1_0f161a55e49ac9a438bf24f330beffffd8e6cdb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_80c72fa58d94c987c1b46e3cc28f24d751a33638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mitake/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/pre-dexed/debug/gson-2.3.1_7535a9e9f592d2ac8b4b0f91f80334e573e08a52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mitake/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0_de84837b80efa2a89e19bf299715a87ce8324e57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_488171fb6adc92feb262fee86a554209d71117e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mitake/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_c6d38fb248d54403d2452d32c6095e20507009d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mitake/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_a4299300cb78b9a37cf2bfacefff6d3688f8db67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_3c282129bd9c98f406852397ef16c9fd9e2310d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Mitake/Desktop/Android/Deal/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_489e7ced37e4e8a760e8ea4adc287b0a25766c33.jar" />
+    </item>
+
+</items>

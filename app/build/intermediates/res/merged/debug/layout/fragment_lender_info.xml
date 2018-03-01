@@ -1,0 +1,176 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/rl_container">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView android:id="@+id/tvTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_margin="15dp"
+                android:text="Mark"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"/>
+
+            <View android:id="@+id/line"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@id/tvTitle"
+                android:background="@android:color/darker_gray"
+                android:layout_margin="5dp"
+                />
+
+            <LinearLayout android:id="@+id/ll_profession"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:layout_below="@id/line"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Profession："
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:text="IT Industry"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+
+            </LinearLayout>
+            <LinearLayout android:id="@+id/ll_financial"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:layout_below="@id/ll_profession"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Financial Status："
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:text="Below 1 million"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+
+            </LinearLayout>
+
+            <LinearLayout android:id="@+id/ll_invest_amount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:layout_below="@id/ll_financial"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Expected Investment："
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:text="Below 500 Thounsand"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+
+
+            </LinearLayout>
+
+            <LinearLayout android:id="@+id/ll_age"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:layout_below="@id/ll_invest_amount"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Age："
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:text="50~59"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+
+
+            </LinearLayout>
+            <LinearLayout android:id="@+id/ll_type"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:layout_below="@id/ll_age"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Type of Risk："
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:text="Stable"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+
+
+            </LinearLayout>
+            <LinearLayout android:id="@+id/ll_rate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:layout_below="@id/ll_type"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Desired Rate："
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:text="6%"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+
+
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>
